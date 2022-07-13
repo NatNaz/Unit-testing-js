@@ -1,0 +1,5 @@
+# ignore  all files in the directory
+coverage/
+
+# ignore all files in the directory
+.nyc_output/
